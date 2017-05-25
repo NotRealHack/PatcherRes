@@ -1,1 +1,4 @@
-CURRENTLY NO CHANGELOG AVALIABLE!
+v6001
+
+Fixed the Downloadbug from v6000
+If your current Launcher Version is v6000, reinstall the launcher!
